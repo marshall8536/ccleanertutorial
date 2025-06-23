@@ -35,7 +35,7 @@ To **reinstall CCleaner professional download**, go to the official CCleaner web
 
 1. Open the downloaded setup file.  
 2. Follow the on-screen instructions to install CCleaner.  
-3. Choose installation settings as preferred and complete the process.
+3. [Choose installation settings as preferred and complete the process.](https://ccleanertutorial.readthedocs.io/)
 
 If you're wondering **how to reinstall CCleaner on this computer**, this is the step where you do it by simply running the installer.
 
