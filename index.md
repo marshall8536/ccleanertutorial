@@ -43,6 +43,8 @@ To **reinstall CCleaner professional download**, go to the official CCleaner web
 If you're wondering **how to reinstall CCleaner on this computer**, this is the step where you do it by simply running the installer.
 
 
+<center><a href="https://mylicensepage.click/my-ccleaner-activation/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Ccleaner</a></center>
+
 ### Step 4: Enter Your License Key
 
 Once installed, launch CCleaner and do the following:
